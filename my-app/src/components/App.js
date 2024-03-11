@@ -1,10 +1,10 @@
-// import './App.css';
+import ShoppingList from './ShoppingList'
 
 import Banner from './Banner'
 import Cart from './Cart'
 
 function App() {
-    return <><Banner /> <Cart /></>
+    return <><Banner /> <Cart /> <ShoppingList /></>
     
 }
 

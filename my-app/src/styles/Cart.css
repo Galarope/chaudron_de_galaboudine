@@ -3,3 +3,13 @@
     padding: 32px;
     background-color: #5a6d63;
 }
+
+.cdg-listItem{
+    background-color: #5a6d63;
+    color: white;
+    padding: 15px 35px;
+}
+
+.sales{
+    color: rgb(221, 169, 72);
+}
