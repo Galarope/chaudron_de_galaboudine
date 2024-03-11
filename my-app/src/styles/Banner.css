@@ -1,0 +1,19 @@
+.cdg-banner {
+	color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.cdg-title {
+	padding-left: 32px;
+}
+
+.cdg-logo {
+	height: 60px;
+	width: 75px;
+}
