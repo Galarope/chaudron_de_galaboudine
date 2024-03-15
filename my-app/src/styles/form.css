@@ -1,0 +1,20 @@
+.formReact{
+    background-color: #5a6d63;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.formReact input{
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+.formReact button{
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
